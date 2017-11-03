@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FullPersonContact</string>
+    <string name="app_name">ISS_Position_app</string>
     <string name="Appkey">d0c78f3260bf406</string>
     <string name="title_activity_maps">ISS Map</string>
 </resources>
